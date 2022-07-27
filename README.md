@@ -9,6 +9,9 @@
 
 <br/>
 <br/>
+
+You can click <a href="https://github.com/hasansaid/Spam-Message-Detector/blob/main/kaynak_kod.ipynb">here</a> to view project output images.
+
 <br/>
 
 ## 🚀 Why should i use this?
